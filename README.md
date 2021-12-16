@@ -48,16 +48,16 @@ The dataset has 21 features and 292669 rows.
 
 # Tools
 
-Python is the programing language for this project
+* Python is the programing language for this project
 
-JUPYTER/Google colab is the notebooks used to perform the coding. 
+* JUPYTER/Google colab is the notebooks used to perform the coding. 
 
-The libraries will be used are:
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SkLearn
+* The libraries will be used are:
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - SkLearn
 
 
 
