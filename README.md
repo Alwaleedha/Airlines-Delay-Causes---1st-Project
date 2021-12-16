@@ -1,4 +1,23 @@
-Features description
+# Airline Arrival Delay Time Prediciton
+
+
+# Introduction
+
+Flights delays are major problem affecting airlines, passengers, and countries all over the world that causes economic losses in billions.
+Why solving this problem? To predict the delays before it happens so airlines action accordingly and satisfies passengers by other recommendation
+
+
+# Problem
+
+The airlines inability to inform passengers of the delays or cancellation prior to flights due to weather, NAS, or others reasons.
+
+
+# Dataset
+
+The source of the data set is Kaggle >> https://www.kaggle.com/omarhossam214/us-airline-delay-causes
+The dataset has 21 features and 292669 rows.
+
+#Features description
 
 * year 
 * month 
@@ -22,9 +41,7 @@ Features description
 * security_delay:time of delayed flights due to security.
 * late_aircraft_delay:time of delayed flights due to a previous flight.
 
------------------------------------------------------------------------
 
-Data Source
-
-https://www.kaggle.com/omarhossam214/us-airline-delay-causes
+# Machine learning  Algorithm
+- Linear Regression LR Algorithm
 
