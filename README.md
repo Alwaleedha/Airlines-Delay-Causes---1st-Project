@@ -45,3 +45,19 @@ The dataset has 21 features and 292669 rows.
 # Machine learning  Algorithm
 - Linear Regression LR Algorithm
 
+
+# Tools
+
+Python is the programing language for this project
+
+JUPYTER/Google colab is the notebooks used to perform the coding. 
+
+The libraries will be used are:
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SkLearn
+
+
+
